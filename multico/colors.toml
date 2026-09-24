@@ -1,0 +1,34 @@
+mode = "dark"
+
+# multico palette
+# Borders, primary text, and readable foregrounds
+foreground = "#d4f3f8"
+dark_foreground = "#a9c8d0"
+light_foreground = "#d4f3f8"
+bright_foreground = "#ffffff"
+
+# Main surface and accents
+background = "#151d41"
+dark_background = "#151d41"
+darker_background = "#0d132f"
+lighter_background = "#519bea"
+accent = "#519bea"
+selection = "#519bea"
+muted = "#6d88a8"
+
+# Semantic colors
+red = "#ce1416"
+yellow = "#ce1416"
+orange = "#ce1416"
+green = "#519bea"
+cyan = "#d4f3f8"
+blue = "#519bea"
+magenta = "#519bea"
+brown = "#ce1416"
+
+bright_red = "#ef4a4c"
+bright_yellow = "#ef4a4c"
+bright_green = "#7bb9f2"
+bright_cyan = "#ffffff"
+bright_blue = "#7bb9f2"
+bright_magenta = "#7bb9f2"
